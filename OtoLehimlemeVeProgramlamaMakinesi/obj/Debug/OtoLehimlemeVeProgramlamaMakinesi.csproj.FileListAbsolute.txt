@@ -1,0 +1,570 @@
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.pdb
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Data.v16.2.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Utils.v16.2.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Data.v16.2.xml
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Utils.v16.2.xml
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.Main.resources
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.Properties.Resources.resources
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.GenerateResource.Cache
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.pdb
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe.licenses
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraBars.v16.2.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraBars.v16.2.xml
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+c:\users\fatih.cengiz.alpmerkez\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Win.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Win.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe.config
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\WebSocket4Net.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPCompolet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPCoreDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPMessaging.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPObjectLibrary.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CommonCipService.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CompoletDataManager.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CompoletFramework.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\FgwDotnet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\PLCDevice.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SysmacCipService.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CIPCompolet.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CIPObjectLibrary.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CommonCipService.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CompoletDataManager.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CompoletFramework.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\FgwDotnet.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\PLCDevice.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\documents\visual studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\SysmacCipService.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SimpleTCP.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.CopyComplete
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.ModelForm.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.FormMessageF2.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.ModelForm2.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.FormMessageF1.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.SplashScreenForm.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.AssemblyReference.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe.config
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.pdb
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPCompolet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPCoreDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPMessaging.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPObjectLibrary.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CommonCipService.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CompoletDataManager.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CompoletFramework.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Win.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\FgwDotnet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\PLCDevice.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SimpleTCP.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SysmacCipService.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\WebSocket4Net.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Win.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CIPCompolet.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CIPObjectLibrary.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CommonCipService.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CompoletDataManager.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CompoletFramework.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\FgwDotnet.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\PLCDevice.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\SysmacCipService.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.FormMessageF1.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.FormMessageF2.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.Main.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.ModelForm.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.ModelForm2.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.Properties.Resources.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.SplashScreenForm.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.GenerateResource.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe.licenses
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.CopyComplete
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.pdb
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe.config
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.pdb
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPCompolet.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPCoreDotNet.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPMessaging.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPObjectLibrary.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CommonCipService.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CompoletDataManager.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CompoletFramework.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\FgwDotnet.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\PLCDevice.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SimpleTCP.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SysmacCipService.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\WebSocket4Net.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Win.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CIPCompolet.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CIPObjectLibrary.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CommonCipService.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CompoletDataManager.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CompoletFramework.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\FgwDotnet.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\PLCDevice.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\SysmacCipService.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.FormMessageF1.resources
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.FormMessageF2.resources
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.Main.resources
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.ModelForm.resources
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.ModelForm2.resources
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.Properties.Resources.resources
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.SplashScreenForm.resources
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe.licenses
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.CopyComplete
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe
+C:\Users\user\Desktop\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.pdb
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\havyaLehimleme\OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.AssemblyReference.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe.config
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\OtoLehimlemeVeProgramlamaMakinesi.pdb
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPCompolet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPCoreDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPMessaging.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CIPObjectLibrary.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CommonCipService.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CompoletDataManager.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\CompoletFramework.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Win.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\FgwDotnet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\PLCDevice.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SimpleTCP.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\SysmacCipService.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\WebSocket4Net.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGauges.v16.2.Win.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CIPCompolet.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CIPObjectLibrary.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CommonCipService.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CompoletDataManager.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\CompoletFramework.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\FgwDotnet.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\PLCDevice.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\SysmacCipService.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.AssemblyReference.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.FormMessageF1.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.FormMessageF2.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.Main.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.ModelForm.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.ModelForm2.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.Properties.Resources.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.SplashScreenForm.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.GenerateResource.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe.licenses
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.csproj.CopyComplete
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.exe
+C:\Users\fatih.cengiz.ALPMERKEZ\Desktop\Projects\Projects\(1707949)_OtoLehimlemeVeProgramlamaMakinesi\OtoLehimlemeVeProgramlamaMakinesi\obj\Debug\OtoLehimlemeVeProgramlamaMakinesi.pdb

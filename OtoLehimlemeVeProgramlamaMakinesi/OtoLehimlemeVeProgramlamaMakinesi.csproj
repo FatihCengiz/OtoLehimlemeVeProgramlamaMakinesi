@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{20999769-C6B8-4ED2-9E1A-6A0EA1C71AB6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OtoLehimlemeVeProgramlamaMakinesi</RootNamespace>
+    <AssemblyName>OtoLehimlemeVeProgramlamaMakinesi</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>oto.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CIPCompolet, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d, processorArchitecture=MSIL" />
+    <Reference Include="CIPCoreDotNet, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d" />
+    <Reference Include="CIPMessaging, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d" />
+    <Reference Include="CIPObjectLibrary, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d" />
+    <Reference Include="CommonCipService, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d" />
+    <Reference Include="CompoletDataManager, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d" />
+    <Reference Include="CompoletFramework, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d" />
+    <Reference Include="DevExpress.BonusSkins.v16.2" />
+    <Reference Include="DevExpress.Data.v16.2" />
+    <Reference Include="DevExpress.Images.v16.2, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v16.2" />
+    <Reference Include="DevExpress.Sparkline.v16.2.Core" />
+    <Reference Include="DevExpress.XtraBars.v16.2, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v16.2" />
+    <Reference Include="DevExpress.Printing.v16.2.Core" />
+    <Reference Include="DevExpress.XtraGauges.v16.2.Core, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v16.2.Win, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v16.2, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v16.2, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v16.2, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v16.2, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v16.2.Core, Version=16.2.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EngineIoClientDotNet, Version=0.9.22.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EngineIoClientDotNet.0.9.22\lib\net45\EngineIoClientDotNet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FgwDotnet, Version=1.0.0.5, Culture=neutral, PublicKeyToken=e010e60d6deeb244" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PLCDevice, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d" />
+    <Reference Include="SimpleTCP, Version=1.0.24.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SimpleTCP.1.0.24\lib\net45\SimpleTCP.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SocketIoClientDotNet, Version=0.9.13.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SocketIoClientDotNet.0.9.13\lib\net45\SocketIoClientDotNet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SysmacCipService, Version=1.8.0.0, Culture=neutral, PublicKeyToken=f3505d5782c23c5d" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebSocket4Net, Version=0.14.1.0, Culture=neutral, PublicKeyToken=eb4e154b696bf72a, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebSocket4Net.0.14.1\lib\net45\WebSocket4Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMessageF1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessageF1.Designer.cs">
+      <DependentUpon>FormMessageF1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMessageF2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessageF2.Designer.cs">
+      <DependentUpon>FormMessageF2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModelForm.Designer.cs">
+      <DependentUpon>ModelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModelForm2.Designer.cs">
+      <DependentUpon>ModelForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PageVariables\MainPageVariables.cs" />
+    <Compile Include="Programming1.cs" />
+    <Compile Include="Programming2.cs" />
+    <Compile Include="SetupF2.cs" />
+    <Compile Include="Setup.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Setting.cs" />
+    <Compile Include="SplashScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreenForm.Designer.cs">
+      <DependentUpon>SplashScreenForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormMessageF1.resx">
+      <DependentUpon>FormMessageF1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessageF2.resx">
+      <DependentUpon>FormMessageF2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelForm.resx">
+      <DependentUpon>ModelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelForm2.resx">
+      <DependentUpon>ModelForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SplashScreenForm.resx">
+      <DependentUpon>SplashScreenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\LehimAkis.datasource" />
+    <None Include="Properties\DataSources\Main.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\Setting.datasource" />
+    <None Include="Properties\DataSources\Setup.datasource">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\SetupF2.datasource" />
+    <None Include="Properties\DataSources\XtraForm1.datasource" />
+    <None Include="Properties\DataSources\XtraForm2.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alplogo_round.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pcbY.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pcbR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pcbG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upButtonHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upButtonPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftButtonHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftButtonPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downButtonHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downButtonPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightButtonHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightButtonPress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\startBtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stopBtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueBHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greyPanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greyPanelhorizontal2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenBHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redBHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redLight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenLight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BtnWNg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnWPls.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="deneme.ico" />
+    <Content Include="oto.ico" />
+    <Content Include="oto_lehimleme.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

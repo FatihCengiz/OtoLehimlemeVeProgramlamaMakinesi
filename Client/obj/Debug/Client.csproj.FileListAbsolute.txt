@@ -1,0 +1,10 @@
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\bin\Debug\Client.exe.config
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\bin\Debug\Client.exe
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\bin\Debug\Client.pdb
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\bin\Debug\SimpleTCP.dll
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\obj\Debug\Client.Form1.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\obj\Debug\Client.exe
+C:\Users\fatih.cengiz.ALPMERKEZ\Documents\Visual Studio 2015\Projects\OtoLehimlemeVeProgramlamaMakinesi\Client\obj\Debug\Client.pdb
