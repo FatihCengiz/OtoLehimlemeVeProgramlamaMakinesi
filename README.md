@@ -8,7 +8,7 @@ A desktop application that I developed for the interface management of automatic
 - Uart-based camera for solder tracking
 - PLC (Turnstile Controller) 
 - .Net Framework 4 for C#
-- Omrom Framework  for PLC communication
+- Omrom API for PLC communication
 
 
 ## PAGE1
