@@ -6,7 +6,7 @@ A desktop application that I developed for the interface management of automatic
 - Uart-based 2 programmer devices (Entrance-Exit)
 - Uart-based soldering device that solders pcb
 - Uart-based camera for solder tracking
-- PLC (Turnstile Controller) 
+- PLC
 - .Net Framework 4 for C#
 - Omrom API for PLC communication
 
